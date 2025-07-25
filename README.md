@@ -43,6 +43,11 @@ Hotspot pattern analysis in ecological studies
 # Import Libraries
 pip install numpy pandas matplotlib seaborn scikit-learn folium
 
+# Data
+"C:\Users\G RUBIKA\OneDrive\Documents\AICTE FIRE INTERNSHIP\modis_2021_India.csv"
+"C:\Users\G RUBIKA\OneDrive\Documents\AICTE FIRE INTERNSHIP\modis_2022_India.csv"
+"C:\Users\G RUBIKA\OneDrive\Documents\AICTE FIRE INTERNSHIP\modis_2023_India.csv"
+
 # AUTHORS
 @karankrishnang
 email:- karankrishnang17@gmail.com
